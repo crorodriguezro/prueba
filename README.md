@@ -14,17 +14,12 @@ Demo: [Aws](http://52.201.66.182:8080)
   `
   npm run lint
   `
-- Estilos:
-
-  `
-  npm run lint
-  `  
 - Pruebas unitarias:
 
   `
   npm run test
   `
-- Pruebas e2e: Para correr estas pruebas es necesario instalar previamente testcafen
+- Pruebas e2e: Para correr estas pruebas es necesario instalar previamente testcafe
 
   `
   npm install -g testcafe
